@@ -1,0 +1,9 @@
+Je propose la structure des fichiers suivante, tout simple:
+
+
+/libs - libraries, datatypes, etc.
+	File name schema:	CuteNameOfTheThing.h, CuteNameOfTheThing.c
+	#include "libs/CuteString.h"
+	
+	
+/docs - documentation
